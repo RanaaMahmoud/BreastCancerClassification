@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/saifurrahmanshatil/multiclass-chest-xray-disease-dataset
+https://www.kaggle.com/datasets/alaareda1/chest-x-ray
