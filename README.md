@@ -1,7 +1,3 @@
-Here’s the updated `README.md` with your **actual deployment link** and the **two Kaggle datasets** you used:
-
----
-
 ### 🧬 Breast Cancer Classification using Deep Learning
 
 This project is a web-based application built with **Streamlit** that classifies breast cancer tumors as **benign** or **malignant**. The model analyzes histopathological images to assist in early detection and diagnosis of breast cancer.
