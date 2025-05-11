@@ -1,2 +1,1 @@
-https://www.kaggle.com/datasets/gauravduttakiit/mammography-breast-cancer-detection
-https://www.kaggle.com/datasets/hayder17/breast-cancer-detection
+1- https://www.kaggle.com/datasets/bmadushanirodrigo/fracture-multi-region-x-ray-data
